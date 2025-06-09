@@ -1,7 +1,7 @@
 ---
 layout: default
-title: The 4th International Workshop on Multi-Modal Medical Data Analysis
-description: IEEE International Conference on Big Data - December 15, 2024, Washington DC, USA
+title: The 5th International Workshop on Multi-Modal Medical Data Analysis
+description: IEEE International Conference on Big Data - December 8, 2025, Macau, China
 ---
 
 # About MMMDA
@@ -17,24 +17,24 @@ The management of patients with complex diseases, such as cancer, typically requ
 
 # Important URL
 
-[IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/)
+[IEEE BigData 2025](https://conferences.cis.um.edu.mo/ieeebigdata2025/index.html)
 
-[Paper Submission](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=S15&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php)
+[Paper Submission](https://wi-lab.com/cyberchair/2025/bigdata25/scripts/submit.php?subarea=S15&undisplay_detail=1&wh=/cyberchair/2025/bigdata25/scripts/ws_submit.php)
 
-[Program Schedule](https://www3.cs.stonybrook.edu/~ieeebigdata2024/)
+[Program Schedule](https://conferences.cis.um.edu.mo/ieeebigdata2025/)
 
-[PC Member Login](https://wi-lab.com/cyberchair/2024/bigdata24/pcmb/pc_index.php?subarea=S15)
+[PC Member Login](https://wi-lab.com/cyberchair/2025/bigdata25/pcmb/pc_index.php?subarea=S15)
 
 # Important Dates
 
-- Oct 31, 2024 (extended): Due date for full workshop papers submission
-- Nov 5, 2024 (extended): Notification of paper acceptance to authors
-- Nov 10, 2024: Camera-ready of accepted papers
-- Dec 15, 2024: Workshop (8:30-12:30, Congressional - A)
+- Oct 31, 2025: Due date for full workshop papers submission
+- Nov 5, 2025: Notification of paper acceptance to authors
+- Nov 23, 2025: Camera-ready of accepted papers
+- Dec 8, 2024: Workshop
 
 # Submission Instructions
 
-Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Papers must be clearly presented in English, up to 10 pages IEEE 2-column format, including tables, figures, references and appendixes, should be submitted via the [conference workshop online submission system](https://wi-lab.com/cyberchair/2024/bigdata24/scripts/submit.php?subarea=S15&undisplay_detail=1&wh=/cyberchair/2024/bigdata24/scripts/ws_submit.php). We also encourage the submission of short papers (4-6 pages IEEE 2-column format), or abstract papers (up to 4 page IEEE 2-column format). Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (more instructions and templates can be downloaded from the conference website). All accepted papers will be included in the conference proceedings and published by the IEEE Xplore Digital Library (covered by the Engineering Index).
+Submitted papers must not substantially overlap with papers that have been published or that are simultaneously submitted to a journal or a conference with proceedings. Papers must be clearly presented in English, up to 10 pages IEEE 2-column format, including tables, figures, references and appendixes, should be submitted via the [conference workshop online submission system](https://wi-lab.com/cyberchair/2025/bigdata25/scripts/submit.php?subarea=S15&undisplay_detail=1&wh=/cyberchair/2025/bigdata25/scripts/ws_submit.php). We also encourage the submission of short papers (4-6 pages IEEE 2-column format), or abstract papers (up to 4 page IEEE 2-column format). Papers should be formatted to IEEE Computer Society Proceedings Manuscript Formatting Guidelines (more instructions and templates can be downloaded from the conference website). All accepted papers will be included in the conference proceedings and published by the IEEE Xplore Digital Library (covered by the Engineering Index).
 
 ## Formatting Instructions
 
@@ -51,6 +51,8 @@ Prof. Wendong Wang, School of Computer Science, Beijing University of Posts and 
 
 Prof. Bo Zhang, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
+Dr. Wufan Wang, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China.
+
 Prof. Nanfang Xu, Peking University Health Science Center, Beijing, China
 
 Dr. Zhen Cui, Beijing University of Posts and Telecommunications Hospital, Beijing, China
@@ -58,7 +60,6 @@ Dr. Zhen Cui, Beijing University of Posts and Telecommunications Hospital, Beiji
 Prof. Ji Wu, Department of Electronic Engineering, Tsinghua University, Beijing, China
 
 Prof. Xiangling Fu, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
-
 
 ## Technical Program Committee
 
@@ -70,7 +71,6 @@ Prof. Hui Gao, School of Computer Science, Beijing University of Posts and Telec
 
 Dr. Wu Liu, JD AI Research, Beijing, China
 
-
 # Previous information
 
-[MMMDA 2023](https://mmmda.bupt.cc/2023.html) |[MMMDA 2022](https://mmmda.bupt.cc/2022.html) | [MMMDA 2021](https://mmmda.bupt.cc/2021.html)
+[MMMDA 2024](https://mmmda.bupt.cc/2024.html) | [MMMDA 2023](https://mmmda.bupt.cc/2023.html) | [MMMDA 2022](https://mmmda.bupt.cc/2022.html) | [MMMDA 2021](https://mmmda.bupt.cc/2021.html)
