@@ -69,6 +69,10 @@ Dr. Zheng Zhang, School of Modern Post, Beijing University of Posts and Telecomm
 
 Prof. Hui Gao, School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China
 
+Dr. Chenwei Yan, School of Information Technology and Management, University of International Business and Economics, Beijing, China
+
+Dr. Yue Gao, School of Artificial Intelligence, Nanjing University of Posts and Telecommunications, Nanjing, China
+
 Dr. Wu Liu, JD AI Research, Beijing, China
 
 # Previous information
